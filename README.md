@@ -1,1 +1,1 @@
-# -Ford-GoBike-Data-Exploration-and-Communication-of-insights-
+# Ford-GoBike-Data-Exploration-and-Communication-of-insights
